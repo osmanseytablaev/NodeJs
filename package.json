@@ -1,0 +1,24 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "package npm",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/eldarseytablaev/justisell-frontend.git"
+  },
+  "keywords": [],
+  "author": "Osman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/eldarseytablaev/justisell-frontend/issues"
+  },
+  "homepage": "https://gitlab.com/eldarseytablaev/justisell-frontend#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
